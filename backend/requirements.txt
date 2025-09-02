@@ -1,0 +1,10 @@
+flask
+flask-cors
+opencv-python
+insightface
+onnxruntime
+faiss-cpu
+numpy
+PyJWT
+werkzeug
+
